@@ -1,5 +1,4 @@
 # Blockchain
-区块链的基础知识
 
 Reference
 
